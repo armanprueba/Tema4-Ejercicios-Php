@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    background-color: #4bb8ba;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 50px 450px;
+}
+
+form{
+    align-content: center;
+}
+
+.form-control{
+    background-color: #1637ba;
+    color: #ffffff;
+}
+
+.form-control::placeholder {
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.form-control{
+    background-color: #1637ba;
+}
+.ultimo-check{
+    margin-bottom: 8px;
+}
+
+.form-select{
+    background-color: #1637ba;
+    color: #ffffff;
+}
+
+#submit{
+    background-color: #e93157;
+    color: #ffffff;
+    border:#0c272e;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 11px 14px;
+    margin: 10px 5px;
+}
